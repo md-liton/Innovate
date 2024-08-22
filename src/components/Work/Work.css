@@ -1,0 +1,12 @@
+.item {
+    transition: all linear .3s;
+}
+.item:hover h4 {
+    color: white;
+}
+.item:hover p {
+    color: white;
+}
+.item:hover button {
+    color: white;
+}
