@@ -34,6 +34,7 @@ export default {
     backgroundImage: {
       'banner': "url('/src/assets/bg-banner.png')",
       'apps': "url('/src/assets/apps-bg.png')",
+      'line': "url('/src/assets/line.png')",
     }
     },
   },

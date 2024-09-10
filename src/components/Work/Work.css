@@ -4,6 +4,15 @@
 .item:hover h4 {
     color: white;
 }
+.item:hover .pricing_icon {
+    color: #43E7DF;
+}
+.item:hover p span {
+    color: #43E7DF;
+}
+.item:hover .pricing_btn {
+   background: #43E7DF;
+}
 .item:hover p {
     color: white;
 }
